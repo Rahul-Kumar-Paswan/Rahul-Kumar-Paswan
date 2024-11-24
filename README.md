@@ -82,7 +82,6 @@
 
 ###
 
-<h4 align="left">AWS Certified Cloud Practitioner<br>Microsoft Certified: Azure Fundamentals (AZ-900).<br>Microsoft Certified: Azure Administrator Associate (AZ-104).<br>Microsoft Certified: Security, Compliance, and Identity Fundamentals<br>Cloud Digital Leader Certification</h4>
 
 <h4 align="left">
   <a href="https://www.credly.com/badges/53dd247a-7b2b-421e-bdb7-f6e8d0f79626/public_url" target="_blank">AWS Certified Cloud Practitioner</a><br>
@@ -94,7 +93,10 @@
 
 
 ###
-</br>
+
+<h2 align="left">📊 GitHub Stats:</h2>
+
+###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Rahul-Kumar-Paswan&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
@@ -107,14 +109,14 @@
 
 </br>
 
-<img src="https://raw.githubusercontent.com/Rahul-Kumar-Paswan/Rahul-Kumar-Paswan/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubuseraccount.com/Rahul-Kumar-Paswan/Rahul-Kumar-Paswan/output/snake.svg" alt="Snake animation" />
 
 ###
 
 </br>
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/Rahul-Kumar-Paswan/count.svg?"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Rahul-Kumar-Paswan.Rahul-Kumar-Paswan&"  />
 </div>
 
 ###
