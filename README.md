@@ -109,7 +109,9 @@
 
 </br>
 
-<img src="https://raw.githubuseraccount.com/Rahul-Kumar-Paswan/Rahul-Kumar-Paswan/output/snake.svg" alt="Snake animation" />
+###
+
+<img src="https://raw.githubusercontent.com/Rahul-Kumar-Paswan/Rahul-Kumar-Paswan/output/snake.svg" alt="Snake animation" />
 
 ###
 
