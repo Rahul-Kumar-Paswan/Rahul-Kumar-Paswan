@@ -107,8 +107,6 @@
 
 <br clear="both">
 
-</br>
-
 ###
 
 <img src="https://raw.githubusercontent.com/Rahul-Kumar-Paswan/Rahul-Kumar-Paswan/output/snake.svg" alt="Snake animation" />
