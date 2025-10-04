@@ -11,7 +11,7 @@
 
 ###
 
-<h4 align="left">🎓 Computer Science and Engineering Student<br>💻 Cloud Enthusiast | DevOps Practitioner | Software Engineer</h4>
+<h4 align="left">💻 Cloud Enthusiast | DevOps Engineer | Software Engineer<br>🎓 Computer Science and Engineering Student</h4>
 
 </br>
 </br>
