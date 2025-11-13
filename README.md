@@ -11,9 +11,19 @@
 
 ###
 
-<h4 align="left">💻 Cloud Enthusiast | DevOps Engineer | Software Engineer<br>🎓 Computer Science and Engineering Student</h4>
+<h4 align="left">💻 Cloud Enthusiast | DevOps Engineer | Software Engineer<br> ⚙️ Passionate about automation, CI/CD, and cloud-native solutions.<br> 🎓 Computer Science and Engineering Student</h4>
 
 </br>
+</br>
+
+###
+<h2 align="left">🌐 Portfolio:</h2>
+
+<h4 align="left">
+🔗 Check out my personal portfolio website to know more about my projects and experience:<br>
+👉 <a href="https://rahulpaswanverse.vercel.app" target="_blank">https://rahulpaswanverse.vercel.app</a>
+</h4>
+
 </br>
 
 ###
@@ -25,6 +35,15 @@
 <div align="left">
   <a href="https://www.linkedin.com/in/rahul-paswan-b1b57b227/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+    <a href="mailto:rahulkumarpaswan941@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://github.com/Rahul-Kumar-Paswan" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="github logo"  />
+  </a>
+  <a href="https://rahulpaswanverse.vercel.app" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=google-chrome&label=&color=orange&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="portfolio logo"  />
   </a>
 </div>
 
